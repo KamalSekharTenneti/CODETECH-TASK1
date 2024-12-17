@@ -1,10 +1,16 @@
 # CODETECH-TASK1
 
+Name: Kamal Sekhar Tenneti
+Comapany: CodeTech IT Solutions
+Intern ID :CT3MTDS48
+Domain : Data Analytics
+Duration: Nov/30/2024 to Feb/30/2024
+Mentor : Neela Santhosh Kumar
 
 
 
-
-HR Analytics To track employee performance for a product-based company.
+#OVERVIEW
+Exploratory Data Analysis(EDA) on HR Analytics To track employee performance for a product-based company.
 
 •	Creation of the dataset 
 What does company do and key Elements of the Hr Analysis
