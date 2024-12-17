@@ -1,15 +1,26 @@
 CODETECH-TASK1
+
+
 Name: Kamal Sekhar Tenneti
+
 Company: CodeTech IT Solutions 
+
 Intern ID: CT3MTDS48 
+
 Domain: Data Analytics 
-Duration: Nov 30, 2024, to Feb 30, 2024 
+
+Duration: Nov 30, 2024, to Feb 30, 2024
+
 Mentor: Neela Santhosh Kumar
 
+
 Overview
+
 Exploratory Data Analysis (EDA) on HR Analytics The objective of this project is to track employee performance for a product-based company through exploratory data analysis (EDA).
 
+
 Key Elements of the HR Analysis
+
 Creation of the dataset: Understanding the company's operations and identifying key elements for HR analysis. Collecting raw data and transforming it into meaningful insights.
 
 Gathering data and conducting research: Analyzing the situation and collecting relevant data.
